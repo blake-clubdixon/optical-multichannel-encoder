@@ -2,7 +2,7 @@
 
 Project photographs, diagrams, schematics, and other visual documentation.
 
-![Optical Receiver Prototype v1](images/optical-receiver-prototype-v1.jpg)
+![Optical Receiver Prototype v1](optical-receiver-prototype-v1.jpg)
 
 ![LTspice Optical TIA Schematic](LTspice-receiver-module-sim-schematic.png)
 
